@@ -8,7 +8,7 @@ Manuel Rodando is a You Tube personality influencer . Client Site.
 
 ---
 
-\_![Ss]()
+\_![Ss](https://www.karltunmediamagic.com/assets/img/others/portfolio8.png)
 
 <!-- TABLE OF CONTENTS -->
 <details>
