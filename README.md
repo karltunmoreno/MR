@@ -87,6 +87,5 @@ Wbbsite  Link: ( https://www.manuelrodando.com/)
 - Built on Bootstrap 5
 - No jQuery dependency
 
-## Credits
+#
 
-- [Bootstrap](http://getbootstrap.com/)
