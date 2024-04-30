@@ -8,7 +8,7 @@ Manuel Rodando is a You Tube personality influencer . Client Site.
 
 ---
 
-\_![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/8888.jpg)
+\_![Ss](https://www.karltunmediamagic.com/assets/img/others/portfolio8.png)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -36,12 +36,34 @@ Manuel Rodando is a You Tube personality influencer . Client Site.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
+
+
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+
+
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ### Criteria:
 
 -Client Site SPA - Single Page Application, MVP, TO have and set up a new agile SPA site for client implementation, development and deployment.
@@ -54,7 +76,7 @@ Built an live site for client. Using web tools such as Adobe Dreamweaver, Photos
 
 ##LINK:
 
-Project Link: (https://karltunmoreno.github.io/Manuel-Rodando-Website/#HOME1)
+Wbbsite  Link: ( https://www.manuelrodando.com/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -65,6 +87,5 @@ Project Link: (https://karltunmoreno.github.io/Manuel-Rodando-Website/#HOME1)
 - Built on Bootstrap 5
 - No jQuery dependency
 
-## Credits
+#
 
-- [Bootstrap](http://getbootstrap.com/)
