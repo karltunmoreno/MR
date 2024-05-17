@@ -85,7 +85,7 @@ Wbbsite  Link: ( https://www.manuelrodando.com/)
 - Fully Responsive
 - HTML5 + CSS3
 - Built on Bootstrap 5
-- No jQuery dependency
 
-#
+
+
 
